@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Lato:wght@700&family=Noto+Sans+Georgian:wght@300;800&family=Oswald&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans Georgian', sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-color: #edf2f4;
+}
+
+#txt::placeholder {
+    color: red;
+    opacity: 1;
+}
